@@ -20,7 +20,10 @@ Connect your WPLMS Learning management system with BadgeOS
 
 Learn how BadgeOS works with WPLMS : <a href="http://support.vibethemes.com/solution/articles/1000165080-badgeos-integration-with-wplms">Tutorial</a>
 
+Supports WPLMS version 1.9.6+
+
 Learn more about <a href="http://themeforest.net/item/wplms-learning-management-system/6780226/comments">WPLMS</a>
+
 = More Information =
 
 Visit the <a href="https://vibethemes.com/">VibeThemes</a> for documentation, support, and information on getting involved in the project.
