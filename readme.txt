@@ -18,10 +18,13 @@ Connect your WPLMS Learning management system with BadgeOS
 3. Award Badges on Course subscription, Course Start, Course submit, course evaluation, course marks greater than X
 4. Award Badges on unit completions, Quiz/Assignment start/submit/evaluation/marks greater than X
 
+Learn how BadgeOS works with WPLMS : <a href="http://support.vibethemes.com/solution/articles/1000165080-badgeos-integration-with-wplms">Tutorial</a>
+
 Learn more about <a href="http://themeforest.net/item/wplms-learning-management-system/6780226/comments">WPLMS</a>
 = More Information =
 
 Visit the <a href="https://vibethemes.com/">VibeThemes</a> for documentation, support, and information on getting involved in the project.
+
 
 == REQUIREMENTS ==
 Minimum supported versions :
@@ -45,10 +48,10 @@ This BadgeOS Boilerplate Add-On is made available by [Credly, LLC](https://credl
 == Installation ==
 
 = From your WordPress dashboard =
-
-1. Visit 'Plugins > Add New'
-2. Search for 'WPLMS BadgeOs'
-3. Activate WPLMS BadgeOs from your Plugins page. 
+1. Install BadgeOs Plugin : https://wordpress.org/plugins/badgeos/
+2. Visit 'Plugins > Add New'
+3. Search for 'WPLMS BadgeOs'
+4. Activate WPLMS BadgeOs from your Plugins page. 
 
 = From WordPress.org =
 
